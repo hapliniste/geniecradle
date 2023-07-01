@@ -1,0 +1,10 @@
+python test_benchmark_inference.py -d C:\Users\oncho\Documents\code\localai\oobabooga_windows\text-generation-webui\models\orca_mini_13B-GPTQ -p -ppl
+
+
+python test_benchmark_inference.py -d C:\Users\oncho\Documents\code\localai\oobabooga_windows\text-generation-webui\models\WizardLM-33B-V1.0-Uncensored-GPTQ -p -ppl
+
+
+
+
+
+python example_chatbot.py -d C:\Users\oncho\Documents\code\localai\oobabooga_windows\text-generation-webui\models\WizardLM-33B-V1.0-Uncensored-GPTQ -un "Jeff" -p prompt_chatbort.txt
