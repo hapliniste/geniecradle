@@ -7,4 +7,9 @@ python test_benchmark_inference.py -d C:\Users\oncho\Documents\code\localai\ooba
 
 
 
-python example_chatbot.py -d C:\Users\oncho\Documents\code\localai\oobabooga_windows\text-generation-webui\models\WizardLM-33B-V1.0-Uncensored-GPTQ -un "Jeff" -p prompt_chatbort.txt
+python example_chatbot.py -d C:\Users\oncho\Documents\code\localai\oobabooga_windows\text-generation-webui\models\WizardLM-33B-V1.0-Uncensored-GPTQ -un "Boss" -p prompt_chatbort.txt -nnl
+
+
+
+
+python webui/app.py -d C:\Users\oncho\Documents\code\localai\oobabooga_windows\text-generation-webui\models\WizardLM-33B-V1.0-Uncensored-GPTQ
